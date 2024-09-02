@@ -1,0 +1,46 @@
+title: "Re-Disconnect"
+email: office@redisconnect.com
+timezone: UTC
+baseurl: ""
+permalink: "/:title/"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+author: admin
+paginate: 30
+disqus: 'demowebsite'
+locale: en_us
+lang: en_us
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+sass:
+  sass_dir: _sass
+  style: :compressed
+ganalytics: G-VRKH90EFSQ
+
+# Authors
+authors:
+  admin:
+    name: admin
+    display_name: Admin
+    avatar: 'assets/images/admin.png'
+    email: admin@redisconnect.com
+    web: https://redisconnect.com
+    twitter: https://x.com/Re_Disconnect
+    description: "The Admin"
+
+# Social
+social:
+  twitter: https://x.com/Re_Disconnect
+
+# Plugins
+plugins: 
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives
