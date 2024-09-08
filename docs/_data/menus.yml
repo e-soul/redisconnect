@@ -10,6 +10,9 @@ topmenu:
 - title: Contact
   url: "contact/"
 
+- title: Terms of Service
+  url: "terms/"
+
 # - title: Get this theme  
 #   url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
 #   class: "ml-2 btn btn-dark text-white px-3"
