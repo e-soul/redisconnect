@@ -1,0 +1,32 @@
+{
+  "openarena": {
+    "image": "assets/openarena_card.png",
+    "displayName": "OpenArena",
+    "genre": "First Person Shooter",
+    "executable": "games\\openarena-0.8.8\\openarena.exe"
+  },
+  "0ad": {
+    "image": "assets/0ad_card.png",
+    "displayName": "0 A.D.",
+    "genre": "Real-Time Strategy",
+    "executable": "games\\0A.D.Alpha26\\binaries\\system\\pyrogenesis.exe"
+  },
+  "stunt_rally": {
+    "image": "assets/stunt_rally_card.png",
+    "displayName": "Stunt Rally",
+    "genre": "Car Racing",
+    "executable": "games\\StuntRally3.1\\sr\\bin\\Release\\StuntRally3cfg.bat"
+  },
+  "openhv": {
+    "image": "assets/openhv_card.png",
+    "displayName": "OpenHV",
+    "genre": "Real-Time Strategy",
+    "executable": "games\\OpenHV-20240908\\OpenHV.exe"
+  },
+  "battle_for_wesnoth": {
+    "image": "assets/battle_for_wesnoth_card.png",
+    "displayName": "The Battle for Wesnoth",
+    "genre": "Turn-Based Strategy",
+    "executable": "games\\battle-for-wesnoth-1.18.2\\wesnoth.exe"
+  }
+}
