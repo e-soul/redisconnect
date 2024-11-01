@@ -15,7 +15,7 @@
     "image": "assets/stunt_rally_card.png",
     "displayName": "Stunt Rally",
     "genre": "Car Racing",
-    "executable": "games\\StuntRally3.1\\sr\\bin\\Release\\StuntRally3cfg.bat"
+    "executable": "games\\StuntRally3.2\\sr\\bin\\Release\\StuntRally3.exe"
   },
   "openhv": {
     "image": "assets/openhv_card.png",

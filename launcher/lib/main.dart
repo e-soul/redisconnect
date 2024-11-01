@@ -66,7 +66,11 @@ class GamesCarouselState extends State<GamesCarousel> {
         text: entry.value["displayName"],
         genre: entry.value["genre"],
         onPressed: () async {
-          await Process.start(entry.value["executable"], []);
+          String executable = entry.value["executable"];
+          String workDir =
+              executable.substring(0, executable.lastIndexOf('\\'));
+          await Process.start(executable, [],
+              workingDirectory: workDir, mode: ProcessStartMode.detached);
         },
       ));
     }
