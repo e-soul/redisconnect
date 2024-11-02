@@ -28,5 +28,35 @@
     "displayName": "The Battle for Wesnoth",
     "genre": "Turn-Based Strategy",
     "executable": "games\\battle-for-wesnoth-1.18.2\\wesnoth.exe"
+  },
+  "gzdoom": {
+    "image": "assets/gzdoom_card.png",
+    "displayName": "GZDoom",
+    "genre": "First Person Shooter",
+    "executable": "games\\gzdoom-4-12-2\\gzdoom.exe"
+  },
+  "redeclipse": {
+    "image": "assets/redeclipse_card.png",
+    "displayName": "Red Eclipse",
+    "genre": "First Person Shooter",
+    "executable": "games\\redeclipse-2.0.0-win\\bin\\amd64\\redeclipse.exe"
+  },
+  "supertux_kart": {
+    "image": "assets/supert_tux_kart.png",
+    "displayName": "SuperTuxKart",
+    "genre": "Car Racing",
+    "executable": "games\\SuperTuxKart 1.4\\supertuxkart.exe"
+  },
+  "unvanquished": {
+    "image": "assets/unvanquished_card.png",
+    "displayName": "Unvanquished",
+    "genre": "First Person Shooter",
+    "executable": "games\\Unvanquished-0.54.1\\daemon.exe"
+  },
+  "xonotic": {
+    "image": "assets/xonotic_card.png",
+    "displayName": "Xonotic",
+    "genre": "First Person Shooter",
+    "executable": "games\\Xonotic-0.8.6\\xonotic.exe"
   }
 }
